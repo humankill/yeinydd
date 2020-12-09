@@ -1,7 +1,6 @@
 img{
 			float: middle;
-			width:10%; 
-			height:10%;
+			margin: 10% 10% 10% 10%;
 		}
 		em{
 			font-family: sans-serif;
